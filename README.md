@@ -1,6 +1,6 @@
 # Clockwork RNN
 
-A PyTorch implementation of Clockwork RNN (CW-RNN) proposed by Koutnik et al. ([ICML](https://arxiv.org/abs/1402.3511), 2014).
+A PyTorch implementation of [Clockwork RNN](https://arxiv.org/abs/1402.3511) (CW-RNN) proposed by Koutnik et al. in 2014.
 
 ## How to use
 
